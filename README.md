@@ -146,18 +146,6 @@ http://localhost:5173
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-* Home Page
-* Login Page
-* Signup Page
-* Chat Interface
-* AI Response Example
-
----
-
 ## 🎯 Learning Outcomes
 
 This project demonstrates:
